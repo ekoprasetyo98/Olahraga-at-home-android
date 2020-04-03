@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyIntentImplicit</string>
+    <string name="with_data">with data</string>
+    <string name="eko_prasetyo_17670062">Eko Prasetyo/17670062</string>
+    <string name="move_with_data">move with data</string>
+    <string name="google_map">google map</string>
+    <string name="dial">dial</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="_20kali">20kali</string>
+    <string name="situp">situp</string>
+    <string name="olahraga_untuk_meningkatkan_imun">olahraga untuk meningkatkan imun</string>
+    <string name="skiping">skiping</string>
+    <string name="_10_menit">10 menit</string>
+    <string name="layanan_pengguna">layanan pengguna :</string>
+    <string name="cegah_covid_19_dengan">Cegah Covid-19 dengan</string>
+</resources>
